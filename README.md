@@ -2,7 +2,7 @@
 
 A Streamlit web application built to visualize solar power plant Performance Ratio (PR) data. This project demonstrates data processing and the creation of an interactive dashboard.
 
-## Live Application
+## Streamlit App
 
 The live, interactive dashboard can be accessed here:
 
